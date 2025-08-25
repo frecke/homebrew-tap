@@ -3,7 +3,7 @@ class Hostsctl < Formula
   homepage "https://github.com/frecke/hostsctl"
   version "0.1.0"
   url "https://github.com/frecke/hostsctl/releases/download/v0.0.1/hostsctl-v0.0.1.tar.gz"
-  sha256 "<FILL_IN_FROM_release.yml_OUTPUT>"
+  sha256 "12b35dca581491472de23a2c7556c6a62c30c141dbb9dc894d38703f037b06ad"
   license "MIT"
 
   depends_on "zsh"
