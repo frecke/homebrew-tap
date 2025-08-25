@@ -1,8 +1,8 @@
 class Hostsctl < Formula
   desc "Tiny macOS /etc/hosts manager with tag toggles and DNS flush"
-  homepage "https://github.com/<YOUR_GH_USERNAME>/hostsctl"
+  homepage "https://github.com/frecke/hostsctl"
   version "0.1.0"
-  url "https://github.com/<YOUR_GH_USERNAME>/hostsctl/releases/download/v#{version}/hostsctl-v#{version}.tar.gz"
+  url "https://github.com/frecke/hostsctl/releases/download/v0.0.1/hostsctl-v0.0.1.tar.gz"
   sha256 "<FILL_IN_FROM_release.yml_OUTPUT>"
   license "MIT"
 
